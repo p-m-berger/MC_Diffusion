@@ -25,6 +25,9 @@ Software license
 
 This software is released under the GNU GPL License 3.0. See the license.txt file included with this software for details or check www.gnu.org/licenses/
 
+Cite as:
+Berger, Peter (2024): MC_Diffusion - a C++ program to calculate multi-component diffusion. V. 1.0. GFZ Data Services. https://doi.org/10.5880/GFZ.3.1.2024.005
+
 References
 
 Oelkers, E.H., 1996, Chapter 3. PHYSICAL AND CHEMICAL PROPERTIES OF ROCKS AND FLUIDS FOR CHEMICAL MASS TRANSPORT CALCULATIONS, in Lichtner, P.C., Steefel, C.I., and Oelkers, E.H. eds., Reactive Transport in Porous Media, Berlin, Boston, De Gruyter, p. 131–192, doi:10.1515/9781501509797-006.
